@@ -16,3 +16,14 @@ AI Agriculture Technology — precision agriculture, crop monitoring and yield f
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
+
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [field-tech-scheduler](https://github.com/Zion-support/field-tech-scheduler) — https://ziontechgroup.com/field-tech-scheduler/
+- [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) — https://ziontechgroup.com/tech-debt-radar/
+- [tech-stack-recommender](https://github.com/Zion-support/tech-stack-recommender) — https://ziontechgroup.com/tech-stack-recommender/
+- [zion-field-agriculture](https://github.com/Zion-support/zion-field-agriculture) — https://ziontechgroup.com/zion-field-agriculture/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
